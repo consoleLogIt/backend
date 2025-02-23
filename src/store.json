@@ -1,0 +1,61 @@
+[
+  {
+    "code": "1",
+    "size": "M",
+    "stock": [
+      {
+        "vendorId": "vendorA",
+        "quality": "low",
+        "price": 10
+      },
+      {
+        "vendorId": "vendorB",
+        "quality": "premium",
+        "price": 20
+      },
+      {
+        "vendorId": "vendorC",
+        "quality": "low",
+        "price": 5
+      }
+    ]
+  },
+  {
+    "code": "2",
+    "size": "L",
+    "stock": [
+      {
+        "vendorId": "vendorA",
+        "quality": "low",
+        "price": 100
+      },
+      {
+        "vendorId": "vendorB",
+        "quality": "premium",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "code": "SHIRT001",
+    "size": "M",
+    "stock": [
+      {
+        "vendorId": "vendor1",
+        "quality": "good",
+        "price": 29.99
+      }
+    ]
+  },
+  {
+    "code": "PANTS002",
+    "size": "L",
+    "stock": [
+      {
+        "vendorId": "vendor2",
+        "quality": "excellent",
+        "price": 39.99
+      }
+    ]
+  }
+]
